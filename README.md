@@ -3,7 +3,7 @@
 <img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prekshita12&label=Profile%20views&color=0e75b6&style=flat" alt="prekshita12" /> </p>
 
-- 🌱 I’m currently learning **NodeJs .**
+- 🌱 I’m currently learning  NodeJs .
 
 - 📫 How to reach me **prekshitamagadum12@gmail.com**
 
