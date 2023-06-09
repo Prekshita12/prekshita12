@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **projects**
 
-- 🌱 I’m currently learning **NodeJs,JavaScript,AI and ML .**
+- 🌱 I’m currently learning **Django,MongoDb,ReactJs,Power Bi.**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT.**
 
