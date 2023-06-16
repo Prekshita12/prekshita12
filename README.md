@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django,MongoDb,ReactJs,Power Bi.**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT.**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,PYTHON.**
 
 - 📫 How to reach me **prekshitamagadum12@gmail.com**
 
