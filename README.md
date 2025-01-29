@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS EC2,MongoDB, Power Bi.**
 
-- 💬 Ask me about **PYTHON, DJANGO, RESTAPI'S,MYSQL, AMAZONS3, AMAZON RDS .**
+- 💬 Ask me about **PYTHON, DJANGO, RESTAPI'S, FLASK, FASTAPI, MYSQL, AMAZONS3, AMAZON RDS .**
 
 - 📫 How to reach me **prekshitamagadum12@gmail.com**
 
